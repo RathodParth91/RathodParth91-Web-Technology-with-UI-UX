@@ -1,1 +1,15 @@
-# RathodParth91-Web-Technology-with-UI-UX
+Name:- Rathod Parth Vikasbhai
+
+Enrollment No:- 2302031000091
+
+Roll.no:-
+
+Sub:- Web-Technology-With-UI-UX
+
+class:- 4IT-B                               
+
+Division:-B2
+
+Course:- B.tech(I.T.)
+
+Collage:- Aditya Silver Oak Collage of Techonology {Silver Oak University}
